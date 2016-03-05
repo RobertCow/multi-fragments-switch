@@ -1,3 +1,11 @@
+/gradle
+/Fragment-test.iml
+/multi-fragments-switch.iml
+/gradlew
+/gradlew.bat
+/gradle.properties
+/.idea
+/.gradle
 # Built application files
 *.apk
 *.ap_
